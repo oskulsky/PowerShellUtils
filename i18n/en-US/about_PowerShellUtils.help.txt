@@ -1,0 +1,13 @@
+PSTOPIC
+    about_SetupCoretex
+
+SHORT DESCRIPTION
+    SetupCoretex helps in setting up a stand alone or a master-slave fail over Coretex configuration
+
+LONG DESCRIPTION
+    SetupCoretex helps in setting up a stand alone or a master-slave fail over Coretex configuration
+
+    You can find more info in the documentation 
+
+DETAILED DESCRIPTION
+    A full description can be found in the Coretex documentation.
